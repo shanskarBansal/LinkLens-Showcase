@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔗 Link to Metrics
+# 🔗 LinkLens
 
 ### _Paste a social media link. Get every metric that matters._
 
@@ -34,7 +34,7 @@
 
 ## 🎯 What This Does
 
-**Link to Metrics** is an automated pipeline that takes raw social media post URLs and returns structured engagement data — no manual copying, no platform-hopping, no wasted hours.
+**LinkLens** is an automated pipeline that takes raw social media post URLs and returns structured engagement data — no manual copying, no platform-hopping, no wasted hours.
 
 You drop links into a Google Sheet. The system:
 
@@ -267,7 +267,7 @@ This means scraping 100 Instagram posts and 50 Facebook posts and 30 YouTube vid
 ## 📁 Project Structure
 
 ```
-Link-to-Metrics/
+LinkLens/
 │
 ├── main.py                          # 🚀 Entry point & orchestrator
 ├── params.yaml                      # ⚙️ Configuration (API keys, sheet IDs)
